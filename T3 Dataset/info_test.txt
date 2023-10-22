@@ -1,0 +1,12 @@
+name	count
+Jaime Fernandez	5
+Sebastian Ma-shichoy	5
+Vicente Gana	5
+Jose Queirolo	6
+Jorge Plaza	7
+Francisco De-la-maza	10
+Gonzalo Vicente	10
+Manuel Bentjerodt	10
+Rodrigo Quezada	10
+Sebastian Diaz	10
+Maria Marin	11

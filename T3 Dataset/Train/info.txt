@@ -1,0 +1,19 @@
+name	count
+Jose Queirolo	8
+Jorge Plaza	9
+Manuel Bentjerodt	9
+Benjamin Gonzalez	10
+Benjamin Morgan	10
+Francisco Troy	10
+Gonzalo Vicente	10
+Jaime Fernandez	10
+Javier Soto	10
+Nicolas Apara	10
+Nicolas Brito	10
+Raimundo Martinez	10
+Rodrigo Quezada	10
+Sebastian Maluk	10
+Vicente Gana	10
+Sebastian Ma-shichoy	13
+
+Total Files: 159

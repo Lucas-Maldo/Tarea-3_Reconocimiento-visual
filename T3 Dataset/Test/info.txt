@@ -1,0 +1,14 @@
+name	count
+Jaime Fernandez	5
+Vicente Gana	5
+Sebastian Diaz	10
+Manuel Bentjerodt	10
+Francisco De-la-maza	10
+Jorge Plaza	10
+Sebastian Ma-shichoy	10
+Rodrigo Quezada	10
+Jose Queirolo	10
+Gonzalo Vicente	10
+Maria Marin	13
+
+Total Files: 103
